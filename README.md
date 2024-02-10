@@ -1,7 +1,7 @@
 # Project--Breast Cancer Detection Using ML
 
-AMRITA VISHWA VIDYAPEETHAM BIO SEM PROJECT
+AMRITA VISHWA VIDYAPEETHAM BIO SEM 1 PROJECT
  
-Breast Cancer Detection Using Logistic Regression. Dataset Obtained from UCI.
+Simple Breast Cancer Detection Using Logistic Regression. Dataset Obtained from UCI.
  
  
